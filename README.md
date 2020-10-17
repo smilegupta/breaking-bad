@@ -2,6 +2,9 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/smilegupta)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/smilegupta) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/smilegupta)
 
+Hooks are functions that let you “hook into” React state and lifecycle features from function components. 
+Excel the concepts of useState and useEffect hook via this tutorial.
+
 ## Prerequisite
 Your Machine must have nodejs installed in your system
 
@@ -15,9 +18,7 @@ Your Machine must have nodejs installed in your system
 - Front End - **HTML**, **CSS** , **JavaScript**
 - Library - **React** 
  
- ## Breaking Bad [API DOC](https://breakingbadapi.com/documentation)
-
-
+ 
 ### React Commands in NutShell
 ##### Creating a React Application 
 ``` npx create-react-app breaking-bad ```
@@ -25,6 +26,7 @@ Your Machine must have nodejs installed in your system
 ##### Running the Application
 ```npm start```
 
+### Breaking Bad [API DOC](https://breakingbadapi.com/documentation)
 
 ### Still need help?
 
